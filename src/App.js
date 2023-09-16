@@ -21,7 +21,7 @@ function App() {
     return ( 
       <Wrapper
         width="100%"
-        heigth="100vh"
+        height="100vh"
         display="flex"
         justify="center"
         align="center"
