@@ -1,0 +1,46 @@
+{
+    "footer": [
+        {
+            "title": "서비스",
+            "list": [
+                "블록체인",
+                "가상자산 API",
+                "가상자산 지수",
+                "Doodles",
+                "사이트맵"
+            ]
+        },
+        {
+            "title": "회사",
+            "list": [
+                "우리에 대하여",
+                "이용 약관",
+                "개인 정보 보호 정책",
+                "Cookie preferences",
+                "Community Rules",
+                "고지사항",
+                "방법론",
+                "직업"
+            ]
+        },
+        {
+            "title": "지원",
+            "list": [
+                "신청 양식",
+                "고객 지원",
+                "FAQ",
+                "용어집"
+            ]
+        },
+        {
+            "title": "소셜 미디어",
+            "list": [
+                "Facebook",
+                "Twitter",
+                "Telegram",
+                "Instagram",
+                "Interactive Chat"
+            ]
+        }
+    ]
+}
